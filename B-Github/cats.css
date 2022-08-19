@@ -1,0 +1,41 @@
+.container {
+    width: 900px;
+    height: 920px;
+    background-color: silver;
+    padding: 20px;
+}
+img{
+    height: 200px;
+}
+.green {
+    width: 900px;
+    height:250px;
+    background-color: rgb(29, 107, 29);
+}
+.blue {
+    width: 900px;
+    height:250px;
+    background-color: rgb(95, 95, 216);
+    margin-top: 20px;
+}
+.yellow {
+    width: 900px;
+    height:250px;
+    background-color: rgb(192, 192, 79);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+}
+#cat, #catss, #cats{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
